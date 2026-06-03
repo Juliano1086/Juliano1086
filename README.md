@@ -29,11 +29,10 @@ Here on my GitHub, you can follow my educational journey, personal projects, and
 
 ---
 
-##  GitHub Stats 📊
+## GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juliano1086&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliano1086&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Juliano1086&theme=tokyonight" />
 </p>
 
 ---
