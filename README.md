@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 My name is **Juliano**, and I'm passionate about technology and cybersecurity.  
 Here on my GitHub, you can follow my educational journey, personal projects, and security-focused scripts for **Linux** and **Windows** environments.
