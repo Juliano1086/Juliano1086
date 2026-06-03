@@ -29,7 +29,7 @@ Here on my GitHub, you can follow my educational journey, personal projects, and
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juliano1086&show_icons=true&theme=tokyonight" height="150" />
@@ -38,7 +38,7 @@ Here on my GitHub, you can follow my educational journey, personal projects, and
 
 ---
 
-## 🌐 Social
+##  Social 🌐
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juliano-s-76157b2b8/">
